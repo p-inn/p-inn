@@ -9,8 +9,6 @@ const p-inn = {
 }
 ```  
 <br/>
-
-<br/>
 <div>
 <h4>📍CONTACT📍</h4>
 <a href="https://velog.io/@lsol1130/posts"><img src="https://img.shields.io/badge/blog-9999FF?style=for-the-badge&logo=blog&logoColor=white"/></a>
@@ -31,7 +29,5 @@ const p-inn = {
 </div>
 <br/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-inn&layout=compact)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=9ED1E7&height=200&section=footer)
