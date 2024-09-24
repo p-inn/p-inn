@@ -1,7 +1,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9ED1E7&height=300&section=header&text=🌲Pinn`s%20FOREST🌲&fontColor=FFFFFF&fontSize=90)
 
-
+```jsx
+const p-inn = {
+  code: [HTML, CSS, Javascript, Typescript],
+  tools: [React, NextJS, Recoil, Tailwind-CSS],
+  favQuote: "Seize the day"
+}
+```  
+<br/>
 
 <br/>
 <div>
