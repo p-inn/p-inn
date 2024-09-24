@@ -3,7 +3,6 @@
 
 
 
-![Pinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-inn&show_icons=true&theme=transparent)
 <br/>
 <div>
 <h4>📍CONTACT📍</h4>
