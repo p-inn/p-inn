@@ -4,7 +4,7 @@
 ```jsx
 const p-inn = {
   code: [HTML, CSS, Javascript, Typescript],
-  tools: [React, NextJS, Recoil, Tailwind-CSS],
+  tools: [React, NextJS, Recoil, Zustand, Tailwind-CSS],
   favQuote: "Seize the day"
 }
 ```  
