@@ -12,7 +12,7 @@ const p-inn = {
 <div>
 <h4>📍CONTACT📍</h4>
 <!-- <a href="https://velog.io/@lsol1130/posts"><img src="https://img.shields.io/badge/blog-9999FF?style=for-the-badge&logo=blog&logoColor=white"/></a> -->
-<a href="mailto:dlthf1995@gmail.com"><img src="https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:lsol1130@naver.com"><img src="https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <h4>🛠️TECH STACK🛠️</h4>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" >
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
